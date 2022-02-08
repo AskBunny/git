@@ -23,6 +23,7 @@ List all the branches > git branch <br />
 Move one to another > git checkout branchname <br />
 Create a new branch > git branch branchname <br />
 git branch and directly enter > git checkout -b branchname <br />
+Delete git branch > git checkout -d branchname <br />
 
 **Merge**  <br />
 Merge one branch with another (current branch) > git merge branchname  <br />
