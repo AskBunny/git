@@ -5,6 +5,7 @@ Create directory mkdir folder <br />
 Create a file> touch fileA.txt <br />
 Open notepad> notepad fileA.txt <br />
 Clear> cmd+k <br />
+Check config details > git config --list (q to exit)
 
 **Git** <br />
 Access config file> git config --global --edit <br />
